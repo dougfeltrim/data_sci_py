@@ -2,18 +2,20 @@
 
 import matplotlib.pyplot as plt
 
-x = [1,2, 5]
-y = [2,3, 7]
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 7, 1, 0]
 
-#titulo
-plt.title("Meu primeiro grafico com python")
+titulo = "Grafico de barras"
+eixox = "Eixo X"
+eixoy = "Eixo Y"
 
-#eixos
-plt.xlabel("eixo X")
-plt.xlabel("eixo Y")
+#Legendas
+plt.title(titulo)
+plt.xlabel(eixox)
+plt.xlabel(eixoy)
 
 
-plt.plot(x,y)
+plt.bar(x,y)
 plt.show()
 
 
