@@ -1,5 +1,5 @@
 # data_sci_py
-# Repositorio com codigos de estudo de datascience usando python
+# Estudo de datascience usando python
 
 Códigos para o iniciantes do curso da Udemy.
 
