@@ -7,4 +7,4 @@ Os códigos estão semelheantes aos do curso.
 
 # Gráfico de crescimento da população brasileira
 
-<img src="https://github.com/dougfeltrim/data_sci_py/blob/master/pop_br.png">
+<img src="https://github.com/dougfeltrim/data_sci_py/blob/master/pop_br.png" width="400" height="400">
